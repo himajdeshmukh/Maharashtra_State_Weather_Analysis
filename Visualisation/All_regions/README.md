@@ -1,1 +1,12 @@
-This folder contains visualization generated after analysis of all_regions, including konkan region.
+## Visualization
+
+This directory contains plotting scripts for weather data analysis.
+
+### Output Types
+- Time-series plots
+- Regional comparison plots
+- Long-term trend visualizations
+
+### Notes
+- Visualization logic is separated from analysis
+- Plots are saved to `output/visualisation/`
