@@ -1,5 +1,5 @@
 # Maharashtra_State_Weather_Analysis
-Long-term (≈40 years) district-level weather data analysis for Maharashtra, using NASA POWER daily AG datasets, with region-wise and scenario-wise statistical summaries and visualizations.
+Long-term (≈40 years) district-level weather data analysis for Maharashtra, using NASA POWER daily AG datasets which contains 4,96,741 rows and 12 parameters, with region-wise and scenario-wise statistical summaries and visualizations.
 # Maharashtra Weather Data Analysis (40+ Years)
 
 This repository contains a complete pipeline for extracting, processing, analyzing,
