@@ -25,8 +25,7 @@ NASA POWER (Prediction of Worldwide Energy Resources) – Daily AG datasets
 - `data_extraction/` – Data download and preprocessing
 - `analysis/` – Statistical analysis scripts
 - `visualisation/` – Plotting and visualization scripts
-- `output/` – Generated results (not tracked)
-- `utils/` – Shared helper functions
+- `results_insights/` – Generated results (not tracked)
 
 ## Notes
 - All scripts use anonymized and non-proprietary data
