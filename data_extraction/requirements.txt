@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+pyyaml
+tqdm
+openpyxl
+pyarrow
+matplotlib
+seaborn
