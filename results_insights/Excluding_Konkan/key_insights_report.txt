@@ -1,0 +1,111 @@
+================================================================================
+MAHARASHTRA CLIMATE ANALYSIS - KEY INSIGHTS REPORT
+EXCLUDING KONKAN REGION
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------
+Analysis Period: 1985-2024 (40 years)
+Regions Covered: Western Maharashtra, West Vidarbha, Marathwada, East Vidarbha, North Maharashtra
+Districts Analyzed: 28
+Konkan Region: Excluded from analysis
+
+KEY FINDINGS
+--------------------------------------------------
+SIGNIFICANCE SUMMARY TABLE:
+------------------------------
+
+Western Maharashtra:
+  Temperature: 0.34°C (↔ Stable) - Minimal change
+  Rainfall: 32.0% (↑ Increasing) - Substantial increase
+  Humidity: 2.7% (↑ Increasing)
+
+West Vidarbha:
+  Temperature: -0.19°C (↔ Stable) - Minimal change
+  Rainfall: 19.4% (↑ Increasing) - Substantial increase
+  Humidity: 5.7% (↑ Increasing)
+
+Marathwada:
+  Temperature: 0.14°C (↔ Stable) - Minimal change
+  Rainfall: 5.5% (↑ Increasing) - Moderate increase
+  Humidity: 3.6% (↑ Increasing)
+
+East Vidarbha:
+  Temperature: -0.24°C (↔ Stable) - Minimal change
+  Rainfall: 20.6% (↑ Increasing) - Substantial increase
+  Humidity: 5.2% (↑ Increasing)
+
+North Maharashtra:
+  Temperature: -0.05°C (↔ Stable) - Minimal change
+  Rainfall: 38.6% (↑ Increasing) - Substantial increase
+  Humidity: 5.6% (↑ Increasing)
+
+MONSOON PATTERN INSIGHTS:
+------------------------------
+
+Western Maharashtra:
+  Onset change: -0.3 days (earlier)
+  Withdrawal change: +0.1 days (delayed)
+  Duration change: +0.4 days (longer)
+
+West Vidarbha:
+  Onset change: -1.0 days (earlier)
+  Withdrawal change: +0.4 days (delayed)
+  Duration change: +1.4 days (longer)
+
+Marathwada:
+  Onset change: -0.1 days (earlier)
+  Withdrawal change: -0.7 days (earlier)
+  Duration change: -0.6 days (shorter)
+
+East Vidarbha:
+  Onset change: +1.4 days (delayed)
+  Withdrawal change: +0.2 days (delayed)
+  Duration change: -1.2 days (shorter)
+
+North Maharashtra:
+  Onset change: +0.2 days (delayed)
+  Withdrawal change: +1.0 days (delayed)
+  Duration change: +0.8 days (longer)
+
+OVERALL CLIMATE CHANGE IMPACT:
+------------------------------
+T2M: 0.06% change
+PRECTOTCORR: 22.35% change
+RH2M: 8.25% change
+
+AGRICULTURAL IMPLICATIONS:
+------------------------------
+
+Western Maharashtra:
+  Avg Temperature: 25.2°C
+  Avg Rainfall: 4.07 mm/day
+  Soil Moisture: 0.564
+
+West Vidarbha:
+  Avg Temperature: 26.4°C
+  Avg Rainfall: 2.76 mm/day
+  Soil Moisture: 0.539
+
+Marathwada:
+  Avg Temperature: 26.3°C
+  Avg Rainfall: 2.30 mm/day
+  Soil Moisture: 0.508
+
+East Vidarbha:
+  Avg Temperature: 26.7°C
+  Avg Rainfall: 3.70 mm/day
+  Soil Moisture: 0.577
+
+North Maharashtra:
+  Avg Temperature: 26.1°C
+  Avg Rainfall: 3.05 mm/day
+  Soil Moisture: 0.506
+
+RECOMMENDATIONS
+--------------------------------------------------
+1. Water Management: Focus on rainwater harvesting in low-rainfall regions
+2. Crop Planning: Adjust sowing dates based on monsoon onset trends
+3. Irrigation: Optimize water use in moisture-stressed regions
+4. Climate Adaptation: Develop region-specific climate resilience strategies
+5. Monitoring: Enhance real-time weather monitoring for agriculture
