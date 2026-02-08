@@ -1,0 +1,13 @@
+parameters:
+  T2M_MAX: true
+  T2M_MIN: true
+  T2M: true
+  PRECTOTCORR: true
+  RH2M: true
+  ALLSKY_SFC_SW_DWN: true
+  WS10M: true
+  GWETTOP: true
+  GWETROOT: true
+  CLOUD_AMT: true
+  ALLSKY_SFC_PAR_TOT: true
+  TS: true
